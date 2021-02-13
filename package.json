@@ -1,0 +1,20 @@
+{
+  "name": "the-timekeeper",
+  "version": "1.0.0",
+  "description": "A simple countdown timer made in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoorajSNBlaze333/the-timekeeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoorajSNBlaze333/the-timekeeper/issues"
+  },
+  "homepage": "https://github.com/SoorajSNBlaze333/the-timekeeper#readme"
+}
